@@ -1,7 +1,10 @@
+html{
+  text-align:center;
+}
+
 body{
   font-family:"Arial", "Meiryo", sans-serif;
   1rem:20px;
-  text-align:center;
 }
 
 h1{
