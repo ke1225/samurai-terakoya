@@ -1,1 +1,12 @@
+body{
+  font-family:"Arial", "Meiryo", sans-serif;
+  1rem:20px;
+  text-align:cnter;
+}
 
+h1{
+  font-family:"Josefin Sans",sans-serif;
+  font-size:2em;
+  letter-spacing:1.2em;
+  boder-bottom:solid 3px rgb(115, 115, 114);
+}
