@@ -4,11 +4,18 @@ html{
 
 body{
   font-family:"Arial", "Meiryo", sans-serif;
-  1rem:20px;
+  font-size:20px;
 }
 
 h1{
-  font-family:"Josefin Sans",sans-serif;
+  // <uniquifier>: Use a unique and descriptive class name
+  
+  .josefin-sans-<uniquifier> {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
   font-size:2em;
   letter-spacing:1.2em;
   text-shadow:1px 1px gray;
