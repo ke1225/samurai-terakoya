@@ -1,22 +1,21 @@
 #top{
   width:800px;
   background-color:#dcc9f4;
-  padding:20px 0;
+  padding:20px auto;
   text-align:center;
   display:block;
 }
 
 .top-child{
   display:inline;
-  padding:20%;
+  padding:0 20%;
   background-color:#ffd9df;
 }
 
 #middle{
   width:800px;
   hight:800px;
-  margin:20px 0;
-  text-align:center;
+  margin:20px auto;
   background-color:#ffd9df;
   position:relative;
 }
