@@ -3,11 +3,10 @@
   background-color:#dcc9f4;
   padding:20px 0;
   display:inline;
-  position:relative;
 }
 
 .top-child{
-  position:absolute;
+  text-align:center;
   width:20%;
   background-color:#ffd9df;
 }
