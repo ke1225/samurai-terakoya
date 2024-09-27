@@ -18,6 +18,7 @@
   margin:20px auto;
   background-color:#ffd9df;
   position:relative;
+  display:block;
 }
 
 #middlr-child01{
@@ -50,8 +51,9 @@
 #bottom{
   width:800px;
   hight:300px;
-  text-align:center;
+  margin:auto;
   background-color:#87ceeb;
+  display:block;
 }
 
 #bottom-child01,#bottom-child02,#bottom-child03{
