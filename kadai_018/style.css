@@ -1,0 +1,26 @@
+#top{
+  weight:800px;
+  background-color:#dcc9f4;
+  padding:20px 0;
+  display:inline;
+  position:relative;
+}
+
+.top-child{
+  position:absolute;
+  width:20%;
+  background-color:#ffd9df;
+}
+
+#middle{
+  width:800px;
+  hight:800px;
+  margin:20px 0;
+  background-color:#ffd9df;
+}
+
+#middle-child01,#middle-child02,#middle-child033{
+  width:200px;
+  hight:200px;
+  background-color:#87ceeb;
+}
