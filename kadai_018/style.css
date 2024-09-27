@@ -2,13 +2,13 @@
   width:800px;
   background-color:#dcc9f4;
   padding:20px auto;
-  text-align:center;
+  margin:auto;
   display:block;
 }
 
 .top-child{
   display:inline;
-  width:20%;
+  margin:20%;
   background-color:#ffd9df;
 }
 
