@@ -43,12 +43,10 @@ h2{
   }
 }
 
-.content:nth-of-type(2){
-  p:nth-of-type(2){
-    ::first-letter{
-      font-wight:bold;
-      color:rgb(97, 206, 249);
-    }
+p:nth-of-type(2){
+  ::first-letter{
+    font-wight:bold;
+    color:rgb(97, 206, 249);
   }
 }
 
