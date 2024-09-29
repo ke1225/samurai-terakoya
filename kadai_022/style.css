@@ -5,3 +5,13 @@ h1,p,body{
 p,a{
   font-size:20px;
 }
+
+header{
+  padding:20px;
+  background-color:rgb(244, 79, 79);
+  text-align:center;
+}
+
+h1{
+  color:rgb(255, 255, 255);
+}
