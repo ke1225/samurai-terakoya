@@ -36,18 +36,16 @@ main{
 h2{
   font-size:25px;
   boder-bottom:dotted 3px rgb(236, 122, 122);
-
-  ::before{
-    content:"●";
-    color:rgb(239, 111, 139);
-  }
 }
 
-p:nth-of-type(2){
-  ::first-letter{
-    font-wight:bold;
-    color:rgb(97, 206, 249);
-  }
+h2::before{
+   content:"●";
+  color:rgb(239, 111, 139);  
+}
+
+p:nth-of-type(2)::first-letter{
+  font-wight:bold;
+  color:rgb(97, 206, 249);
 }
 
 .content img{
@@ -62,11 +60,12 @@ footer{
 
 a{
   color:rgb(255, 255, 255);
+}
 
-  :visited{
-    color:rgb(193, 234, 251);
-  }
-  :hover{
-    color:rgb(245, 178, 168);
-  }
+a:visited{
+  color:rgb(193, 234, 251);
+}
+
+a:hover{
+  color:rgb(245, 178, 168);
 }
