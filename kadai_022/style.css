@@ -43,7 +43,7 @@ h2::before{
   color:rgb(239, 111, 139);  
 }
 
-p::first-letter:nth-of-type(2){
+p:nth-of-type(2)::first-letter{
   font-wight:bold;
   color:rgb(97, 206, 249);
 }
