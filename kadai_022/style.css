@@ -54,7 +54,7 @@ p:nth-of-type(2)::first-letter{
 }
 
 footer{
-  backgroud-color:rgb(244, 79, 79);
+  background-color:rgb(244, 79, 79);
   text-align:center;
 }
 
@@ -80,6 +80,6 @@ a:hover{
   }
 
   #parent{
-    display:block;
+    flex-direction:column;
   }
 }
